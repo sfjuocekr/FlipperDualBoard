@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Project_Library")(type "KiCad")(uri "${KIPRJMOD}/Project_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "/home/sjoer/git/KiCAD/Library/Mouser/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
